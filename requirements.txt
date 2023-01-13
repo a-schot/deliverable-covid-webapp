@@ -1,0 +1,7 @@
+# required packages
+numpy
+pandas
+plotly
+streamlit
+sqlalchemy
+psycopg2-binary
